@@ -4,4 +4,4 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                
           <img class="gallery-image" src="${p}" alt="${t}" />
         </a>
       </li>`).join("");o&&(o.innerHTML=c);new e(".gallery a",{captionsData:"alt",captionPosition:"bottom",captionDelay:250});
-//# sourceMappingURL=1-gallary.js.map
+//# sourceMappingURL=1-gallery.js.map
